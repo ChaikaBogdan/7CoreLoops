@@ -23,8 +23,8 @@ incremental: false
 remote_theme: jekyll/minima
 minima:
   skin: auto
-  social_links:
-    - { platform: youtube, user_url: "https://www.youtube.com/channel/UCBOVLzGUr0ukioDfWPMzyTQ" }
+  # social_links:
+  #   - { platform: youtube, user_url: "https://www.youtube.com/channel/UCBOVLzGUr0ukioDfWPMzyTQ" }
 
 plugins:
   - jekyll-feed
