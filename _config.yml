@@ -28,5 +28,5 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-show_excerpts: false
+show_excerpts: true
 google_analytics: G-PRWP0FBZ5D
