@@ -33,7 +33,7 @@ permalink: lost-days
   }
   .title {
     color: white;
-    font-family: 'neon-sans';
+    font-family: "neon-sans";
     background-color: #ffff99;
     background-size: 100%;
     background-clip: text;
